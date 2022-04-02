@@ -8,7 +8,7 @@ Skills: C++/C#/HTML/CSS
 - 📫 How to reach me: martynaklasa.011@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mklasam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Martyna Klasa/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mklasam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martyna-klasa-075a22212/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mklasam&show_icons=true)  
 
