@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Martyna Klasa
 #### Websites Design and Mobile Apps Creating
-ja.jpg
+
 I’m interested in photography and music.
 I’m currently learning how to develop a website from the scratch and further my skills, which include specialising in UI and UX design.
 
