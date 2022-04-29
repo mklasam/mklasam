@@ -4,7 +4,7 @@
 I’m interested in photography and music.
 I’m currently learning how to develop a website from the scratch and further my skills, which include specialising in UI and UX design.
 
-My skills: `C++/C#/HTML/CSS`
+My skills: `C++/C#/HTML/CSS/JavaScript`
 
 > 📫 How to reach me: 
 > > `martynaklasa.011@gmail.com`
