@@ -11,7 +11,7 @@ I’m currently learning how to develop a website from the scratch and further m
 <br> <br>
     <img src="https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge&labelColor=black">
     <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=black">
-  <img src= 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FGIMP&psig=AOvVaw0096kIecbWwtRmxv68yy12&ust=1653750541852000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDz9P_6__cCFQAAAAAdAAAAABAD height = '40'>
+
 <br>
   <br>
 
