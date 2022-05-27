@@ -1,10 +1,9 @@
 ### _Hi, my name is Martyna Klasa,_
-#### _I specialise in websites Design and Mobile Apps Creating._
+## _I specialise in websites Design and Mobile Apps Creating._
 <img src='https://github.com/mklasam/mklasam/blob/69a6f5531a8c42c73159e10f7504214b2b493b43/ja.jpg' height='300' align='right'>
-I’m interested in photography and music.
-I’m currently learning how to develop a website from the scratch and further my skills, which include specialising in UI and UX design.
 
-<hr>
+### _I’m currently learning how to develop a website from the scratch and further my skills, which include specialising in UI and UX design._
+
 <div align = left>
 
 ### 🎨 Design
@@ -34,6 +33,9 @@ I’m currently learning how to develop a website from the scratch and further m
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
+### ✨ My hobbys
+ 📸 Photography
+ 🎵 Music
 </div>
 <br>
 
